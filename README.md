@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Tarachand, a computer science student from India
+- 👋 Hi! I’m Tarachand, a Computer Science Student.
 - 🌱 I’m currently learning Web Development.
 - 👀 I’m very interested in machine learning and AI.
 - 💞️ I'm always looking for new projects to work on, so if you have any ideas, please let me know!
